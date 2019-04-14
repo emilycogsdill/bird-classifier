@@ -2,7 +2,7 @@
 
 This was the final project I worked on in the UT Data Analytics and Visualization Bootcamp (April 2018). I worked with two others (Kali Blevins and Arwen Shackelford) to create a web site where the user could upload a bird and then learn facts about the bird in the image.
 
-My primary contribution to this project was training the bird classification model (by using Tensorflow to update ImageNet on a labeled set of bird images extracted from Google Image Search) and creating the service that returns predictions based on uploaded images.
+My primary contribution to this project was training the bird classification model. I did this by using Tensorflow to retrain ImageNet on a labeled set of bird images from the CB-200 dataset. I also set up the service within the web app that returns predictions based on uploaded images.
 
 Check out the slides from our presentation [here](https://docs.google.com/presentation/d/1o_HdrxcCWDtsDdC9imitevN6N3dXZjYGZSTka6jimdM/edit?usp=sharing).
 
