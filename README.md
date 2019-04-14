@@ -1,6 +1,6 @@
 # Bird Image Classifier & Dashboard
 
-This was the final project I worked on in the UT Data Analytics and Visualization Bootcamp (April 2018). I worked with two others (Kali Blevins and Arwen Shackelford) to create a web site where the user could upload a bird and then learn what kind of bird it is (based on a bird image classifier I trained) as well as other information about the bird.
+This was the final project I worked on in the UT Data Analytics and Visualization Bootcamp (April 2018). I worked with two others (Kali Blevins and Arwen Shackelford) to create a web site where the user could upload a bird and then learn facts about the bird in the image.
 
 My primary contribution to this project was training the bird classification model (by using Tensorflow to update ImageNet on a labeled set of bird images extracted from Google Image Search) and creating the service that returns predictions based on uploaded images.
 
