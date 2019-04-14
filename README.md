@@ -4,6 +4,8 @@ This was the final project I worked on in the UT Data Analytics and Visualizatio
 
 My primary contribution to this project was training the bird classification model (by using Tensorflow to update ImageNet on a labeled set of bird images extracted from Google Image Search) and creating the service that returns predictions based on uploaded images.
 
+Check out the slides from our presentation [here](https://docs.google.com/presentation/d/1o_HdrxcCWDtsDdC9imitevN6N3dXZjYGZSTka6jimdM/edit?usp=sharing).
+
 
 ****
 
