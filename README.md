@@ -6,7 +6,7 @@ My primary contribution to this project was training the bird classification mod
 
 Check out the slides from our presentation [here](https://docs.google.com/presentation/d/1o_HdrxcCWDtsDdC9imitevN6N3dXZjYGZSTka6jimdM/edit?usp=sharing).
 
-![Bird Classification Project](images/Bird Classification Project.jpg)
+![Bird Classification Project](images/Bird\ Classification\ Project.jpg)
 
 
 ****
